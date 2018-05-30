@@ -1,0 +1,14 @@
+*.pyc
+.idea
+*/*.pyc
+ResumeSpider/*.pyc
+
+.project
+.pydevproject
+.settings/org.eclipse.core.resources.prefs
+/.settings
+/.settings
+/.project
+/.pydevproject
+/bug_log.log
+/.settings/*.prefs
